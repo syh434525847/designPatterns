@@ -13,7 +13,6 @@ public enum State {
 
     private int value;
 
-
     State(int value) {
         this.value = value;
     }
