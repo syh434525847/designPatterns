@@ -11,7 +11,6 @@ public enum State {
     FIRE(2),
     CAPE(3);
 
-
     private int value;
 
 
